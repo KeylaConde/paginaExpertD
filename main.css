@@ -35,7 +35,7 @@ body {
 
 /*SECCION NUESTRO EQUIPO MAPA*/
 .mapa {
-    background: url(./mapa.png);
+    background: url(mapa.png);
     width: 100%;
     height: 500px;
 }
